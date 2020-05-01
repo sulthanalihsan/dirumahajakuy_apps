@@ -1,6 +1,6 @@
 # DirumahAjaKu Apps Challenge - Flutter
 
-![alt text](https://raw.githubusercontent.com/sulthanalihsan/corona_monitoring_apps/master/screenshot/ss.png)
+![alt text](https://i.ibb.co/Kby5dMw/dirumahajakuyapps.png)
 ------------------------------------------------------------------------------------------------------
 This project led me to be one of the winners of the idcamp challenge
 https://www.dicoding.com/challenges/580
@@ -29,6 +29,3 @@ https://www.dicoding.com/challenges/580
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-
-### Contributing
-Just make pull request. You are in!
