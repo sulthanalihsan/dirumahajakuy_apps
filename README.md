@@ -1,16 +1,34 @@
-# dirumahajakuy
+# DirumahAjaKu Apps Challenge - Flutter
 
-A new Flutter application.
+![alt text](https://raw.githubusercontent.com/sulthanalihsan/corona_monitoring_apps/master/screenshot/ss.png)
+------------------------------------------------------------------------------------------------------
+This project led me to be one of the winners of the idcamp challenge
+https://www.dicoding.com/challenges/580
 
-## Getting Started
+### Package References
+1. Http
+2. Background Fetch 
+3. Geolocator & Location
+4. Google Map Flutter
+5. SQFLite
+6. Provider
 
-This project is a starting point for a Flutter application.
+### License
+```
+   Copyright (C) 2020
 
-A few resources to get you started if this is your first Flutter project:
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+       http://www.apache.org/licenses/LICENSE-2.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
+
+### Contributing
+Just make pull request. You are in!
