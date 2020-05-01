@@ -5,6 +5,9 @@
 This project led me to be one of the winners of the idcamp challenge
 https://www.dicoding.com/challenges/580
 
+Some parts of this application are inspired by
+https://www.youtube.com/watch?v=TnAaCyPzVuY&t=1625s
+
 ### Package References
 1. Http
 2. Background Fetch 
